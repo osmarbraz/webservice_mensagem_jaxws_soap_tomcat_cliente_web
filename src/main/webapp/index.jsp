@@ -6,7 +6,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Cliente WEB Serviço Mensagem</title>
+        <title>Cliente WEB Serviço Mensagem JAX-WS SOAP</title>
     </head>
     <body>
         <h1>Cliente WEB Serviço Mensagem</h1>
